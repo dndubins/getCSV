@@ -2,6 +2,6 @@ The file getCSV.xlsx was my attempt at making Excel read data from the serial mo
 
 It's not fast.
 
-Data rates less than 1 data point per second should probably be avoided.
+Data collection rates faster than 1 data point per second should probably be avoided.
 It's also a bit glitchy, so I offer this spreadsheet without apologies. Be warned!
 On the other hand, it did work on Mac and PC the last time I tested it.
